@@ -34,7 +34,7 @@ def main():
 
                 # construct topic dict to add to module dict
                 for topic in topic_blocks:
-                    new_topic = {'name': '', 'content': ''}
+                    new_topic = {'name': '', 'content': 'Test'}
                     new_topic['name'] = topic.split('\n')[1]
 
                     new_module['topics'].append(new_topic)
