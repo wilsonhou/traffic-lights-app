@@ -1,0 +1,76 @@
+{
+  "modules": [
+    {
+      "name": "Module 1: Properties and Structure of Matter",
+      "topics": [
+        { "name": "Properties of Matter", "content": "" },
+        { "name": "Atomic structure and atomic mass", "content": "" },
+        { "name": "Periodicity", "content": "" },
+        { "name": "Bonding", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 2: Introduction to Quantitative Chemistry",
+      "topics": [
+        { "name": "Chemical Reactions and Stoichiometry", "content": "" },
+        { "name": "Mole Concept", "content": "" },
+        { "name": "Gas Laws", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 3: Reactive Chemistry",
+      "topics": [
+        { "name": "Chemical Reactions", "content": "" },
+        { "name": "Predicting Reactions of Metals", "content": "" },
+        { "name": "Rates of Reactions", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 4: Drivers of Reactions",
+      "topics": [
+        { "name": "Energy Changes in Chemical Reactions", "content": "" },
+        { "name": "Enthalpy and Hess\u2019s Law", "content": "" },
+        { "name": "Entropy and Gibbs Free Energy", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 5: Equilibrium and Acid Reactions",
+      "topics": [
+        { "name": "Static and Dynamic Equilibrium", "content": "" },
+        { "name": "Factors that Affect Equilibrium", "content": "" },
+        { "name": "Calculating the Equilibrium Constant (Keq)", "content": "" },
+        { "name": "Solution Equilibria", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 6: Acid/Base Reactions",
+      "topics": [
+        { "name": "Properties of Acids and Bases", "content": "" },
+        { "name": "Using Br\u00f8nsted\u2013Lowry Theory", "content": "" },
+        { "name": "Quantitative Analysis", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 7: Organic Chemistry",
+      "topics": [
+        { "name": "Nomenclature", "content": "" },
+        { "name": "Hydrocarbons", "content": "" },
+        {
+          "name": "Products of Reactions Involving Hydrocarbons",
+          "content": ""
+        },
+        { "name": "Alcohols", "content": "" },
+        { "name": "Reactions of Organic Acids and Bases", "content": "" },
+        { "name": "Polymers", "content": "" }
+      ]
+    },
+    {
+      "name": "Module 8: Applying Chemical Ideas",
+      "topics": [
+        { "name": "Analysis of Inorganic Substances", "content": "" },
+        { "name": "Analysis of Organic Substances", "content": "" },
+        { "name": "Chemical Synthesis and Design", "content": "" }
+      ]
+    }
+  ]
+}
